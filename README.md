@@ -1,8 +1,8 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
-![Easy](https://img.shields.io/badge/Easy-5-brightgreen)
-![Medium](https://img.shields.io/badge/Medium-0-orange)
+![Easy](https://img.shields.io/badge/Easy-3-brightgreen)
+![Medium](https://img.shields.io/badge/Medium-2-orange)
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 Hi! personal collection of [LeetCode](https://leetcode.com/) solutions, organized by difficulty level.
