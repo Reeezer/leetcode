@@ -1,7 +1,7 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
-![Easy](https://img.shields.io/badge/Easy-2-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-5-brightgreen)
 ![Medium](https://img.shields.io/badge/Medium-0-orange)
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
